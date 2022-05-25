@@ -3,6 +3,6 @@
 2022/3/27 讨论：加入SED分布、tau(DRW)、sigma(DRW)等参数的图像化的神经网络训练。改进原方法。
 
 2022/5/25 参考资料：
-1. <https://github.com/RezaDavahli/stochastic_recurrent_neural_networks/tree/master/rnn_fw>
+1. https://github.com/RezaDavahli/stochastic_recurrent_neural_networks/tree/master/rnn_fw
 2. <https://github.com/XinzeZhang/Stochastic_RNN>
 3. <https://github.com/Zhang-VISLab/SBO-RNN-Reformulating-Recurrent-Neural-Networks-via-Stochastic-Bilevel-Optimization>
